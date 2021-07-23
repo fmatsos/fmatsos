@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [my website](https://www.fmatsos.dev/)
 
-- 📫 How to reach me by email: **contact@matsos.fr**
+- 📫 How to reach me by email: **hello@franck.matsos.fr**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/fmatsos)
 

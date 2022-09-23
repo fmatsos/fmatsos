@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franck MATSOS</h1>
 <h3 align="center">A passionate PHP developer from France</h3>
 
-- 📝 I regularly write articles on [my website](https://www.fmatsos.dev/)
-
 - 📫 How to reach me by email: **hello@franck.matsos.fr**
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/fmatsos)

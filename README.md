@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Franck MATSOS</h1>
-<h2 align="center">A passionate PHP developer from France</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=051218&width=435&lines=Hi+%F0%9F%91%8B+;I'm+Franck+MATSOS;A+passionate+PHP+developer+from+France)](https://git.io/typing-svg)
 
 💼 Working at **<a href="https://www.akawaka.fr/" target="_blank">Akawaka</a>** (<a href="https://twitter.com/akawakaweb"  target="_blank">@akawakaweb</a>) as Software Engineer
 

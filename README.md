@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&duration=2000&pause=500&color=051218&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hi+%F0%9F%91%8B+;I'm+Franck%2C;A+passionate+PHP+developer+from+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&duration=2000&pause=500&color=051218&center=false&vCenter=true&multiline=true&repeat=false&width=435&height=100&lines=Hi+%F0%9F%91%8B+;I'm+Franck%2C;A+passionate+PHP+developer+from+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
 
 💼 Working at **<a href="https://www.akawaka.fr/" target="_blank">Akawaka</a>** (<a href="https://twitter.com/akawakaweb"  target="_blank">@akawakaweb</a>) as Software Engineer
 

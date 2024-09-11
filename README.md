@@ -7,6 +7,8 @@
 📄 Know about my experiences on [
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/fmatsos)
 
+🐘 Social: <a rel="me" href="https://phpc.social/@fmatsos" target="_blank">@fmatsos@phpc.social</a>
+
 <h3>Environment</h3>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>

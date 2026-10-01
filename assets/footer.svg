@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" role="img" aria-label="Thanks for stopping by">
+  <defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" x2="800" spreadMethod="repeat">
+    <stop offset="0" stop-color="#FFD60A"/><stop offset=".33" stop-color="#FF4FA3"/><stop offset=".66" stop-color="#2DE2E6"/><stop offset="1" stop-color="#FFD60A"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="0 0;800 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient></defs>
+  <style>
+    text{font:700 18px ui-monospace,'JetBrains Mono',Menlo,Consolas,monospace}
+    .c{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.c{animation:none}}
+  </style>
+  <text x="400" y="38" text-anchor="middle" fill="url(#g)">$ echo "thanks for stopping by, see you around ✌" <tspan class="c" fill="#FF4FA3">▌</tspan></text>
+</svg>

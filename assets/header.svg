@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-label="Hey there, I'm Franck. Senior PHP and Symfony developer, Rust and shell tinkerer, local AI explorer.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-label="Hey there, I'm Franck. Senior backend developer, PHP and Symfony, building with AI every day.">
   <defs>
     <clipPath id="r"><rect width="1200" height="250" rx="28"/></clipPath>
     <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
@@ -44,9 +44,9 @@
       <text class="big" x="64" y="160" fill="#FFD60A">FRANCK</text>
     </g>
     <g class="mono" font-size="28" fill="#F4F1FF">
-      <text class="l l1" x="64" y="210">→ senior PHP &amp; Symfony developer</text>
-      <text class="l l2" x="64" y="210">→ Rust &amp; shell tinkerer</text>
-      <text class="l l3" x="64" y="210">→ local AI explorer (NPUs, MCP, agents)</text>
+      <text class="l l1" x="64" y="210">→ senior backend developer, PHP &amp; Symfony</text>
+      <text class="l l2" x="64" y="210">→ building with AI agents, every day</text>
+      <text class="l l3" x="64" y="210">→ Claude Code, MCP &amp; local models</text>
       <text class="l l4" x="64" y="210">→ certified web-quality nerd</text>
     </g>
     <g fill="#FFD60A">

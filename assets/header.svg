@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-label="Hey there, I'm Franck. Senior PHP and Symfony developer, Rust and shell tinkerer, local AI explorer.">
+  <defs>
+    <clipPath id="r"><rect width="1200" height="250" rx="28"/></clipPath>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#FFD60A"/><stop offset=".5" stop-color="#FF4FA3"/><stop offset="1" stop-color="#2DE2E6"/>
+    </linearGradient>
+    <path id="spark" d="M0-14C2-4 4-2 14 0 4 2 2 4 0 14-2 4-4 2-14 0-4-2-2-4 0-14Z"/>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace}
+    .big{font-family:'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif;font-weight:900;font-size:108px;letter-spacing:4px}
+    .blob{transform-box:fill-box;transform-origin:center;animation:drift 14s ease-in-out infinite alternate}
+    .b2{animation-duration:17s;animation-direction:alternate-reverse}
+    .b3{animation-duration:11s}
+    @keyframes drift{0%{transform:translate(0,0) scale(1)}50%{transform:translate(-120px,40px) scale(1.25)}100%{transform:translate(60px,-30px) scale(.9)}}
+    .pink{animation:wig 2.4s ease-in-out infinite}
+    .cyan{animation:wig 2.4s ease-in-out infinite reverse}
+    @keyframes wig{0%,100%{transform:translate(0,0)}25%{transform:translate(-6px,3px)}50%{transform:translate(4px,-4px)}75%{transform:translate(6px,4px)}}
+    .hop{transform-box:fill-box;transform-origin:bottom;animation:hop 3.2s cubic-bezier(.3,1.6,.5,1) infinite}
+    @keyframes hop{0%,70%,100%{transform:none}78%{transform:translateY(-14px) rotate(-2deg)}86%{transform:translateY(0) scaleY(.94)}}
+    .sp{transform-box:fill-box;transform-origin:center;animation:tw 1.8s ease-in-out infinite}
+    @keyframes tw{0%,100%{transform:scale(.4) rotate(0);opacity:.4}50%{transform:scale(1.15) rotate(45deg);opacity:1}}
+    .l{opacity:0;animation:cyc 12s infinite}
+    .l2{animation-delay:3s}.l3{animation-delay:6s}.l4{animation-delay:9s}
+    @keyframes cyc{0%{opacity:0;transform:translateY(12px)}4%,22%{opacity:1;transform:none}26%,100%{opacity:0;transform:translateY(-12px)}}
+    .cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}.l1{opacity:1}}
+  </style>
+  <g clip-path="url(#r)">
+    <rect width="1200" height="250" fill="#14121F"/>
+    <g filter="url(#blur)" opacity=".75">
+      <circle class="blob" cx="980" cy="90" r="140" fill="#FF4FA3"/>
+      <circle class="blob b2" cx="1120" cy="210" r="120" fill="#2DE2E6"/>
+      <circle class="blob b3" cx="760" cy="230" r="110" fill="#FFD60A"/>
+    </g>
+    <path d="M0 240 Q150 215 300 240 T600 240 T900 240 T1200 240 V250 H0Z" fill="url(#g)" opacity=".9">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-300 0;0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <text class="mono" x="64" y="58" font-size="26" fill="#2DE2E6">~$ whoami<tspan class="cur" fill="#FFD60A"> ▌</tspan></text>
+    <g class="hop">
+      <text class="big pink" x="64" y="160" fill="#FF4FA3">FRANCK</text>
+      <text class="big cyan" x="64" y="160" fill="#2DE2E6" opacity=".85">FRANCK</text>
+      <text class="big" x="64" y="160" fill="#FFD60A">FRANCK</text>
+    </g>
+    <g class="mono" font-size="28" fill="#F4F1FF">
+      <text class="l l1" x="64" y="210">→ senior PHP &amp; Symfony developer</text>
+      <text class="l l2" x="64" y="210">→ Rust &amp; shell tinkerer</text>
+      <text class="l l3" x="64" y="210">→ local AI explorer (NPUs, MCP, agents)</text>
+      <text class="l l4" x="64" y="210">→ certified web-quality nerd</text>
+    </g>
+    <g fill="#FFD60A">
+      <use href="#spark" class="sp" x="640" y="70"/>
+      <use href="#spark" class="sp" x="700" y="150" style="animation-delay:.6s" transform="scale(.7)"/>
+      <use href="#spark" class="sp" x="1080" y="60" style="animation-delay:1.1s"/>
+      <use href="#spark" class="sp" x="890" y="170" style="animation-delay:.3s"/>
+    </g>
+  </g>
+</svg>

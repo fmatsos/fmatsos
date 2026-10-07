@@ -5,11 +5,16 @@
     <linearGradient id="g" x1="0" x2="1">
       <stop offset="0" stop-color="#FFD60A"/><stop offset=".5" stop-color="#FF4FA3"/><stop offset="1" stop-color="#2DE2E6"/>
     </linearGradient>
+    <mask id="wm" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="250">
+      <path class="wave" d="M0 240 Q150 215 300 240 T600 240 T900 240 T1200 240 T1500 240 V250 H0Z" fill="#fff"/>
+    </mask>
     <path id="spark" d="M0-14C2-4 4-2 14 0 4 2 2 4 0 14-2 4-4 2-14 0-4-2-2-4 0-14Z"/>
   </defs>
   <style>
     .mono{font-family:ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace}
     .big{font-family:'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif;font-weight:900;font-size:108px;letter-spacing:4px}
+    .wave{animation:wave 6s linear infinite}
+    @keyframes wave{to{transform:translateX(-300px)}}
     .blob{transform-box:fill-box;transform-origin:center;animation:drift 14s ease-in-out infinite alternate}
     .b2{animation-duration:17s;animation-direction:alternate-reverse}
     .b3{animation-duration:11s}
@@ -34,9 +39,7 @@
       <circle class="blob b2" cx="1120" cy="210" r="120" fill="#2DE2E6"/>
       <circle class="blob b3" cx="760" cy="230" r="110" fill="#FFD60A"/>
     </g>
-    <path d="M0 240 Q150 215 300 240 T600 240 T900 240 T1200 240 V250 H0Z" fill="url(#g)" opacity=".9">
-      <animateTransform attributeName="transform" type="translate" values="0 0;-300 0;0 0" dur="9s" repeatCount="indefinite"/>
-    </path>
+    <rect width="1200" height="250" fill="url(#g)" opacity=".9" mask="url(#wm)"/>
     <text class="mono" x="64" y="58" font-size="26" fill="#2DE2E6">~$ whoami<tspan class="cur" fill="#FFD60A"> ▌</tspan></text>
     <g class="hop">
       <text class="big pink" x="64" y="160" fill="#FF4FA3">FRANCK</text>

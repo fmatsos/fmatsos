@@ -61,7 +61,21 @@ I'm curious about a lot of things, and I like to dig into them until they click:
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
         <img src="https://img.shields.io/badge/license-Unlicense-2DE2E6?style=flat-square" alt="Unlicense">
       </p>
-      <p><a href="https://fmatsos.github.io/shellkit/"><b>Website</b></a> · <a href="https://github.com/fmatsos/shellkit"><b>Repository</b></a></p>
+      <p><a href="https://fmatsos.github.io/shellkit/"><b>Website</b></a> · <a href="https://fmatsos.github.io/shellkit/docs/"><b>Docs</b></a> · <a href="https://github.com/fmatsos/shellkit"><b>Repository</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fmatsos/dot"><img src="https://raw.githubusercontent.com/fmatsos/dot/main/.github/assets/banner.webp" alt="dot: a ladybug with four arms holding a magnifying glass with a padlock and a golden key, standing among young shoots in a twilight garden" width="100%"></a>
+      <h3>🐞 <a href="https://github.com/fmatsos/dot">dot</a></h3>
+      <p><b>One tool for all your dotfiles, without leaking a thing.</b></p>
+      <p>Installs and maintains one or more dotfiles profiles from a single static binary for Linux and macOS. It links the files in <code>~</code>, guards against leaks (forbidden terms, secrets), reads secrets from your vault, and merges MCP servers and settings for Claude Code, Codex and OpenCode.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+        <img src="https://img.shields.io/github/v/release/fmatsos/dot?style=flat-square&label=release&color=FFD60A" alt="Latest release">
+        <img src="https://img.shields.io/badge/license-Unlicense-2DE2E6?style=flat-square" alt="Unlicense">
+      </p>
+      <p><a href="https://github.com/fmatsos/dot"><b>Repository</b></a></p>
     </td>
   </tr>
 </table>

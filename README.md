@@ -1,8 +1,8 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 767px)" srcset="assets/hero-mobile-static-dusk.webp">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static-dusk.webp">
-  <source media="(max-width: 767px)" srcset="assets/hero-mobile-dusk.webp">
-  <img src="assets/hero-dusk.webp" alt="Animated illustration of Franck at his home-office desk, with a window onto a village and the text: FRANCK, senior backend developer, PHP and Symfony, building with AI every day. He blinks and types while the plants sway and the lamp flickers. The mascots of his projects visit in turn: the gekko gecko walks out from behind the mug, a notification from the shellkit hermit crab pops up on the monitor, and the dot ladybug flies in, lands on the laptop screen and flies away. The scene follows the time of day in France: night, dawn, day or dusk" width="100%">
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 767px)" srcset="https://franck.matsos.dev/profile/hero-mobile-static.webp">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://franck.matsos.dev/profile/hero-static.webp">
+  <source media="(max-width: 767px)" srcset="https://franck.matsos.dev/profile/hero-mobile.webp">
+  <img src="https://franck.matsos.dev/profile/hero.webp" alt="Animated illustration of Franck at his home-office desk, with a window onto a village and the text: FRANCK, senior backend developer, PHP and Symfony, building with AI every day. He blinks and types while the plants sway and the lamp flickers. The mascots of his projects visit in turn: the gekko gecko walks out from behind the mug, a notification from the shellkit hermit crab pops up on the monitor, and the dot ladybug flies in, lands on the laptop screen and flies away. The scene follows the time of day in France: night, dawn, day or dusk" width="100%">
 </picture>
 
 <picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img align="right" width="220" src="assets/avatar-wave.webp" alt="Cartoon sticker of Franck waving hello"></picture>
@@ -19,11 +19,11 @@ I'm curious about a lot of things, and I like to dig into them until they click:
 
 <br clear="right">
 
-<img src="assets/cert-dusk.svg" alt="Certifications: Symfony 7 Certified Developer, Opquast Web Quality Certified." width="100%">
+<img src="https://franck.matsos.dev/profile/cert.svg" alt="Certifications: Symfony 7 Certified Developer, Opquast Web Quality Certified." width="100%">
 
 <table align="left">
   <tr><td width="270" valign="top">
-    <a href="https://github.com/fmatsos/gekko"><picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img src="assets/gekko-dusk.webp" alt="gekko: an orange gecko holding a terminal, next to a glowing circuit board" width="100%"></picture></a>
+    <a href="https://github.com/fmatsos/gekko"><picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img src="https://franck.matsos.dev/profile/gekko.webp" alt="gekko: an orange gecko holding a terminal, next to a glowing circuit board" width="100%"></picture></a>
     <h3>🦎 <a href="https://github.com/fmatsos/gekko">gekko</a></h3>
   </td></tr>
   <tr><td height="260" valign="top"><p><b>Your AI commands are configuration, not code.</b></p>
@@ -41,7 +41,7 @@ I'm curious about a lot of things, and I like to dig into them until they click:
 </table>
 <table align="left">
   <tr><td width="270" valign="top">
-    <a href="https://github.com/fmatsos/shellkit"><picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img src="assets/shellkit-dusk.webp" alt="shellkit: a hermit crab in sunglasses holding a wrench and a screwdriver on a beach" width="100%"></picture></a>
+    <a href="https://github.com/fmatsos/shellkit"><picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img src="https://franck.matsos.dev/profile/shellkit.webp" alt="shellkit: a hermit crab in sunglasses holding a wrench and a screwdriver on a beach" width="100%"></picture></a>
     <h3>🦀 <a href="https://github.com/fmatsos/shellkit">shellkit</a></h3>
   </td></tr>
   <tr><td height="260" valign="top"><p><b>A plain zsh / bash setup that never makes you wait.</b></p>
@@ -59,7 +59,7 @@ I'm curious about a lot of things, and I like to dig into them until they click:
 </table>
 <table align="left">
   <tr><td width="270" valign="top">
-    <a href="https://github.com/fmatsos/dot"><picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img src="assets/dot-dusk.webp" alt="dot: a ladybug with four arms holding a magnifying glass with a padlock and a golden key, in a garden" width="100%"></picture></a>
+    <a href="https://github.com/fmatsos/dot"><picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img src="https://franck.matsos.dev/profile/dot.webp" alt="dot: a ladybug with four arms holding a magnifying glass with a padlock and a golden key, in a garden" width="100%"></picture></a>
     <h3>🐞 <a href="https://github.com/fmatsos/dot">dot</a></h3>
   </td></tr>
   <tr><td height="260" valign="top"><p><b>One tool for all your dotfiles, without leaking a thing.</b></p>
@@ -76,9 +76,9 @@ I'm curious about a lot of things, and I like to dig into them until they click:
 <br clear="left">
 
 <p>
-  <picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img align="top" src="assets/stack-dusk.svg" alt="Tech stack. Core: PHP, Symfony, databases, JavaScript. Daily setup: Docker, Linux, Git. AI: Claude Code and Codex." width="100%"></picture><br>
-  <picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img align="top" src="assets/status-dusk.svg" alt="Live status: last push, latest releases of gekko, shellkit and dot, and number of public repositories." width="100%"></picture><br>
-  <picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img align="top" src="assets/divider-dusk.svg" alt="" width="100%"></picture>
+  <picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img align="top" src="https://franck.matsos.dev/profile/stack.svg" alt="Tech stack. Core: PHP, Symfony, databases, JavaScript. Daily setup: Docker, Linux, Git. AI: Claude Code and Codex." width="100%"></picture><br>
+  <picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img align="top" src="https://franck.matsos.dev/profile/status.svg" alt="Live status: last push, latest releases of gekko, shellkit and dot, and number of public repositories." width="100%"></picture><br>
+  <picture><source media="(max-width: 767px)" srcset="assets/blank.svg"><img align="top" src="https://franck.matsos.dev/profile/divider.svg" alt="" width="100%"></picture>
 </p>
 
 <p align="center">

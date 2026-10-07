@@ -53,8 +53,26 @@ I'm curious about a lot of things, and I like to dig into them until they click:
       <p>
         <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
         <img src="https://img.shields.io/github/v/release/fmatsos/gekko?style=flat-square&label=release&color=FFD60A" alt="Latest release">
-        <img src="https://img.shields.io/badge/license-Unlicense-2DE2E6?style=flat-square" alt="Unlicense">
+        <img src="https://img.shields.io/badge/Unlicense-2DE2E6?style=flat-square" alt="Unlicense license">
       </p>
+    </td>
+    <td valign="top">
+      <p>
+        <img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" alt="Zsh">
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+        <img src="https://img.shields.io/badge/Unlicense-2DE2E6?style=flat-square" alt="Unlicense license">
+      </p>
+    </td>
+    <td valign="top">
+      <p>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+        <img src="https://img.shields.io/github/v/release/fmatsos/dot?style=flat-square&label=release&color=FFD60A" alt="Latest release">
+        <img src="https://img.shields.io/badge/Unlicense-2DE2E6?style=flat-square" alt="Unlicense license">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
       <p>
         <a href="https://fmatsos.github.io/gekko/"><img src="https://img.shields.io/badge/Website-FFD60A?style=flat-square" alt="Website"></a>
         <a href="https://fmatsos.github.io/gekko/docs/"><img src="https://img.shields.io/badge/Docs-2DE2E6?style=flat-square" alt="Docs"></a>
@@ -63,22 +81,12 @@ I'm curious about a lot of things, and I like to dig into them until they click:
     </td>
     <td valign="top">
       <p>
-        <img src="https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" alt="Zsh">
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
-        <img src="https://img.shields.io/badge/license-Unlicense-2DE2E6?style=flat-square" alt="Unlicense">
-      </p>
-      <p>
         <a href="https://fmatsos.github.io/shellkit/"><img src="https://img.shields.io/badge/Website-FFD60A?style=flat-square" alt="Website"></a>
         <a href="https://fmatsos.github.io/shellkit/docs/"><img src="https://img.shields.io/badge/Docs-2DE2E6?style=flat-square" alt="Docs"></a>
         <a href="https://github.com/fmatsos/shellkit"><img src="https://img.shields.io/badge/Repository-14121F?style=flat-square" alt="Repository"></a>
       </p>
     </td>
     <td valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
-        <img src="https://img.shields.io/github/v/release/fmatsos/dot?style=flat-square&label=release&color=FFD60A" alt="Latest release">
-        <img src="https://img.shields.io/badge/license-Unlicense-2DE2E6?style=flat-square" alt="Unlicense">
-      </p>
       <p>
         <a href="https://github.com/fmatsos/dot"><img src="https://img.shields.io/badge/Repository-14121F?style=flat-square" alt="Repository"></a>
       </p>

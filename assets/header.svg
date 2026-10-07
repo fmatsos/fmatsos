@@ -6,15 +6,15 @@
       <stop offset="0" stop-color="#FFD60A"/><stop offset=".5" stop-color="#FF4FA3"/><stop offset="1" stop-color="#2DE2E6"/>
     </linearGradient>
     <mask id="wm" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="250">
-      <path class="wave" d="M0 240 Q150 215 300 240 T600 240 T900 240 T1200 240 T1500 240 V250 H0Z" fill="#fff"/>
+      <path class="wave" d="M0 240 Q150 215 300 240 T600 240 T900 240 T1200 240 T1500 240 T1800 240 V250 H0Z" fill="#fff"/>
     </mask>
     <path id="spark" d="M0-14C2-4 4-2 14 0 4 2 2 4 0 14-2 4-4 2-14 0-4-2-2-4 0-14Z"/>
   </defs>
   <style>
     .mono{font-family:ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace}
     .big{font-family:'Arial Black','Segoe UI Black','Helvetica Neue',Arial,sans-serif;font-weight:900;font-size:108px;letter-spacing:4px}
-    .wave{animation:wave 6s linear infinite}
-    @keyframes wave{to{transform:translateX(-300px)}}
+    .wave{animation:wave 12s linear infinite}
+    @keyframes wave{to{transform:translateX(-600px)}}
     .blob{transform-box:fill-box;transform-origin:center;animation:drift 14s ease-in-out infinite alternate}
     .b2{animation-duration:17s;animation-direction:alternate-reverse}
     .b3{animation-duration:11s}

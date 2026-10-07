@@ -40,8 +40,8 @@ I'm curious about a lot of things, and I like to dig into them until they click:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/fmatsos/gekko"><img src="https://raw.githubusercontent.com/fmatsos/gekko/main/.github/assets/banner.webp" alt="Gekko: an orange gecko holding a terminal, next to a circuit board" width="100%"></a>
-      <h3>🦎 <a href="https://github.com/fmatsos/gekko">Gekko</a></h3>
+      <a href="https://github.com/fmatsos/gekko"><img src="https://raw.githubusercontent.com/fmatsos/gekko/main/.github/assets/banner.webp" alt="gekko: an orange gecko holding a terminal, next to a circuit board" width="100%"></a>
+      <h3>🦎 <a href="https://github.com/fmatsos/gekko">gekko</a></h3>
       <p><b>Your AI commands are configuration, not code.</b></p>
       <p>A generic CLI engine, written in Rust, that runs your own AI commands against any OpenAI-compatible model server: OVMS on an Intel NPU, <code>llama-server</code> on Apple Silicon, and more. Commands are Markdown files, outputs are validated JSON, and every command is also an MCP tool.</p>
       <p>

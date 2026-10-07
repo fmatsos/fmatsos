@@ -52,7 +52,7 @@ def update_status(path, repo, when, rel, count, day):
 def main():
     now = datetime.now(timezone.utc); paris = now.astimezone(ZoneInfo(TZ)); st = state(paris.hour)
     readme = os.path.join(ROOT, 'README.md'); txt = open(readme, encoding='utf-8').read()
-    new = re.sub(r'(assets/(?:hero|hero-static|cert|stack|status|divider|gekko|shellkit|dot)-)(?:night|dawn|day|dusk)(\.(?:svg|webp))', rf'\g<1>{st}\g<2>', txt)
+    new = re.sub(r'(assets/(?:hero-mobile-static|hero-mobile|hero-static|hero|cert|stack|status|divider|gekko|shellkit|dot)-)(?:night|dawn|day|dusk)(\.(?:svg|webp))', rf'\g<1>{st}\g<2>', txt)
     if os.environ.get('SKIP_STATUS') != '1':
         try:
             repo, when, rel, count = status_facts(now)

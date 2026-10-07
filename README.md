@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static-day.webp">
-  <img src="assets/hero-day.webp" alt="Animated illustration of Franck at his home-office desk, with a window onto a village and the text: FRANCK, senior backend developer, PHP and Symfony, building with AI every day. He blinks and types while the plants sway and the lamp flickers. The mascots of his projects visit in turn: the gekko gecko walks out from behind the mug, a notification from the shellkit hermit crab pops up on the monitor, and the dot ladybug flies in, lands on the laptop screen and flies away. The scene follows the time of day in France: night, dawn, day or dusk" width="100%">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static-dusk.webp">
+  <img src="assets/hero-dusk.webp" alt="Animated illustration of Franck at his home-office desk, with a window onto a village and the text: FRANCK, senior backend developer, PHP and Symfony, building with AI every day. He blinks and types while the plants sway and the lamp flickers. The mascots of his projects visit in turn: the gekko gecko walks out from behind the mug, a notification from the shellkit hermit crab pops up on the monitor, and the dot ladybug flies in, lands on the laptop screen and flies away. The scene follows the time of day in France: night, dawn, day or dusk" width="100%">
 </picture>
 
 <img align="right" width="220" src="assets/avatar-wave.webp" alt="Cartoon sticker of Franck waving hello">
@@ -17,20 +17,20 @@ I'm curious about a lot of things, and I like to dig into them until they click:
 
 <br clear="right">
 
-<img src="assets/cert-day.svg" alt="Certifications: Symfony 7 Certified Developer, Opquast Web Quality Certified." width="100%">
+<img src="assets/cert-dusk.svg" alt="Certifications: Symfony 7 Certified Developer, Opquast Web Quality Certified." width="100%">
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/fmatsos/gekko"><img src="assets/gekko-day.webp" alt="gekko: an orange gecko holding a terminal, next to a glowing circuit board" width="100%"></a>
+      <a href="https://github.com/fmatsos/gekko"><img src="assets/gekko-dusk.webp" alt="gekko: an orange gecko holding a terminal, next to a glowing circuit board" width="100%"></a>
       <h3>🦎 <a href="https://github.com/fmatsos/gekko">gekko</a></h3>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/fmatsos/shellkit"><img src="assets/shellkit-day.webp" alt="shellkit: a hermit crab in sunglasses holding a wrench and a screwdriver on a beach" width="100%"></a>
+      <a href="https://github.com/fmatsos/shellkit"><img src="assets/shellkit-dusk.webp" alt="shellkit: a hermit crab in sunglasses holding a wrench and a screwdriver on a beach" width="100%"></a>
       <h3>🦀 <a href="https://github.com/fmatsos/shellkit">shellkit</a></h3>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/fmatsos/dot"><img src="assets/dot-day.webp" alt="dot: a ladybug with four arms holding a magnifying glass with a padlock and a golden key, in a garden" width="100%"></a>
+      <a href="https://github.com/fmatsos/dot"><img src="assets/dot-dusk.webp" alt="dot: a ladybug with four arms holding a magnifying glass with a padlock and a golden key, in a garden" width="100%"></a>
       <h3>🐞 <a href="https://github.com/fmatsos/dot">dot</a></h3>
     </td>
   </tr>
@@ -87,9 +87,9 @@ I'm curious about a lot of things, and I like to dig into them until they click:
 </table>
 
 <p>
-  <img align="top" src="assets/stack-day.svg" alt="Tech stack. Core: PHP, Symfony, databases, JavaScript. Daily setup: Docker, Linux, Git. AI: Claude Code and Codex." width="100%"><br>
-  <img align="top" src="assets/status-day.svg" alt="Live status: last push, latest releases of gekko, shellkit and dot, and number of public repositories." width="100%"><br>
-  <img align="top" src="assets/divider-day.svg" alt="" width="100%">
+  <img align="top" src="assets/stack-dusk.svg" alt="Tech stack. Core: PHP, Symfony, databases, JavaScript. Daily setup: Docker, Linux, Git. AI: Claude Code and Codex." width="100%"><br>
+  <img align="top" src="assets/status-dusk.svg" alt="Live status: last push, latest releases of gekko, shellkit and dot, and number of public repositories." width="100%"><br>
+  <img align="top" src="assets/divider-dusk.svg" alt="" width="100%">
 </p>
 
 <p align="center">

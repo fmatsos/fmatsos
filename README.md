@@ -1,4 +1,7 @@
-<img src="assets/banner.webp" alt="Illustration of Franck at his home-office desk at night: a 32-inch monitor and a laptop showing code, a DJ controller and vinyl records, books, a telescope, a small succulent and a neural-network poster" width="100%">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner-static.webp">
+  <img src="assets/banner.webp" alt="Animated illustration of Franck at his home-office desk at night: a 32-inch monitor and a laptop showing scrolling code, a DJ controller and vinyl records, books, a telescope, a neural-network poster and a window onto a starry village with twinkling stars and house lights. Franck blinks and types while the plants sway and the lamp flickers. The mascots of his projects visit in turn: the gekko gecko walks out from behind the mug, looks around on the desk and goes back behind it, a notification from the shellkit hermit crab pops up on the monitor, and the dot ladybug lands on the laptop screen before flying away" width="100%">
+</picture>
 
 <a href="https://franck.matsos.dev">
   <img src="assets/header.svg" alt="Hey there, I'm Franck. Senior backend developer, PHP and Symfony, building with AI every day." width="100%">
